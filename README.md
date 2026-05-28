@@ -3,7 +3,6 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![React Version](https://img.shields.io/badge/react-19.0.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![MongoDB Atlas](https://img.shields.io/badge/database-MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/atlas)
-[![Socket.io](https://img.shields.io/badge/realtime-Socket.io-010101?logo=socket.dot.io&logoColor=white)](https://socket.io/)
 [![Tailwind CSS](https://img.shields.io/badge/styles-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
