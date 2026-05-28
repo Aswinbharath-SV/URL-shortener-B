@@ -30,7 +30,7 @@ Visualizes geographic visitor density on an interactive map, and features compre
 > [!TIP]
 > **YouTube Video Preview Template:** Once you record your walk-through video, replace the link and the image source below with your YouTube URL to show off your working application directly in the GitHub repo!
 
-[![SnipURL App Walkthrough](https://youtu.be/1kE1PAakfCM?si=CywWK3mPmRWx2hHP)]
+[![SnipURL App Walkthrough](https://youtu.be/1kE1PAakfCM?si=CywWK3mPmRWx2hHP)(https://youtu.be/1kE1PAakfCM?si=CywWK3mPmRWx2hHP)]
 ---
 
 ## 🏛️ Advanced Architecture Overview
